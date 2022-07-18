@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://13-angka-mimpi.github.io/sitemap.xml
